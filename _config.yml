@@ -19,17 +19,17 @@ email: sami.tuohino@gmail.com
 description: Thoughts.
 baseurl: # the optional subpath of your site, e.g. "/blog"
 url: https://samituohino.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-author: 
+author:
   name: Sami Tuohino
   twitter: samituohino
-  picture: 
+  picture:
 twitter_username: samituohino
 github_username: samituohino
 logo: # path of site logo, e.g. "/assets/images/logo.png"
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-basically-basic
+#theme: jekyll-theme-basically-basic
 plugins: # previsously gems
   - jekyll-feed
   - jekyll-seo-tag
