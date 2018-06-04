@@ -1,0 +1,14 @@
+---
+layout: post
+title: Psychological safety
+date: '2018-06-04 18:00:01'
+tags:
+- agile
+- retrospective
+---
+
+Collection of resources for psychological safety at work.
+
+#### Modern Agile #### 
+
+[Modern Agile](http://modernagile.org/) is a great read with a handy [Cheatsheet](https://docs.google.com/document/d/1BAmaH1_U4z5tc3QpV5pMDoPsGmVSVYdSzefIfwjeT7E/export?format=pdf) on establishing psychological safety at an office environment.
