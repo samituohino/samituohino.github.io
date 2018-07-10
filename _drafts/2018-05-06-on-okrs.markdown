@@ -1,0 +1,44 @@
+---
+layout: post
+title: How to Use OKRs in your team
+date: '2018-06-05 18:00:01'
+tags:
+- agile
+- retrospective
+- okr
+---
+
+Plenty of things https://medium.com/startup-tools/okrs-5afdc298bc28 have been written on how companies use OKRs. Adopted by major players like Google https://library.gv.com/how-google-sets-goals-okrs-a1f69b0b72c7 and Uber, they've become the go-to framework for goal setting.
+
+Guidelines on OKRs https://rework.withgoogle.com/guides/set-goals-with-okrs/steps/introduction/
+Loads of examples of OKRs http://okrexamples.co/
+How Google sets goals using OKRs https://www.youtube.com/watch?v=mJB83EZtAjc
+
+#### What OKRs are not ####
+
+What they are not
+- List of things to do
+- A box ticking exercise
+- Binary
+- Easy to form (although they may get easier the more you do it - we'll see!)
+- Top down
+- Something you allocate capacity against
+- The only way of settings goals (d'oh)
+
+#### What they are ####
+
+I'll use (and expand on) on an analogy I was one told. Imagine working for a company that had set a goal to improve wellbeing of the employee. Pretty generic right? Now there are many ways to do this, however, the team you work on decided they are going to get more physically healthy. Here's where the O in the OKR kick in. Let's examine this example.
+
+Objective = Get more healthy. We'd still need to come to work to pay the rent/mortgage, bills, food and hopefully have a few pounds extra to save. Now one thing, we figured, would be to choose how do we get to work to help with this objective. We could continue taking the London Underground, but it wouldn't really help us get healthy therefore we choose to cycle to work instead. We think cycling would be a good compromise as it would be still a relatively speedy way to get to the office; we could choose to run or walk as well but think it would be a bit too much. We could also make this Key Result stretchy by saying "We'll cycle to work 5 times a week" but would still consider the job well done if we'd end up cycling to work 3 times a week and take the tube 2 days of the week.
+
+In summary, as an OKR that aligns to a company goal, you could have
+(Company) Goal - Improve the wellbeing of employees
+(Team) Objective - Get more healthy
+(Team) Key Result - cycle to work 5 times a week
+
+#### Cross team critique ####
+
+Ask another team to review your OKRs. Ask them to be the devils advocate, to tear them apart. Pick a team that doens't have much context to your work as it'll help you write more understandable OKRs. Help them with questions such as
+'Do you understand what are we trying to achieve?'
+'Do you think these look ambitious goals, something that makes us uncomfortable?'
+'Are these all clearly measurable?'
