@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Grand Literature Post on Agility
+title: The Grand Literature Post on agility
 date: '2016-11-28 13:35:26'
 tags:
 - agile
@@ -15,17 +15,33 @@ Many folks ask "Oi hai, would you have recommendations on good literature for ..
 
 Books about CI, CD, DevOps and the need for speed.
 
-### Continuous Delivery: Reliable Software Releases Through Build, Test, and Deployment Automation 
+### Continuous Delivery: Reliable Software Releases Through Build, Test, and Deployment Automation
 
 *by Jez Humble, David Farley*
 
 Explains what it says on the tin. Recommended reading for any technologist.
 
+### The Learn Startup
+
+*by Eric Ries*
+
+Now I don't really care if you stumbled upon this blog post by accident or work in software engineering. I also don't like being told I should do something, but you should read this book. You, really really should. And then recommend everyone else read this book too.
+
+Basically it'll have advise on how to test and validate if your ideas are solid enough to build it properly. It'll also give inject your brain with a seed of thought: "What if we are only doing this because we have always been doing it like this?" Which, in turn, may or may not lead you to challenge *everything*.
+
+I take no responsibly if you pivot out of your relationship/move out of the country/quit your job/shut down your business if it goes wrong.
+
 ### Lean Enterprise
 
 *by Jez Humble, Joanne Molesky, Barry O'Reilly*
 
-There's another book called *The* Learn Enterprise which I haven't read. This piece, Lean Enterprise, is a continuation of The Lean Startup. Pretty much how to stay lean with scale. 
+There's another book called *The* Learn Enterprise which I haven't read. This piece, Lean Enterprise, is a continuation of The Lean Startup. Pretty much how to stay lean with scale.
+
+### Turn the Ship Around! A True Story of Turning Followers Into Leaders
+
+*by L. David Marquet*
+
+Excellent read about how a nuclear submarine commander got the crew go from worst to first.
 
 ### The Phoenix Project
 
@@ -37,19 +53,7 @@ I don't particularly like the fictional bit of the book, however, it's still a g
 
 *by David J. Anderson*
 
-The best book about Kanban I've encountered. 
-
-### The Learn Startup
-
-*by Eric Ries*
-
-Now I don't really care if you stumbled upon this blog post by accident or work in software engineering. I also don't like being told I should do something, but you should read this book. You, really really should. And then recommend everyone else read this book too.
-
-Basically it'll have advise on how to test and validate if your ideas are solid enough to build it properly. It'll also give inject your brain with a seed of thought: "What if we are only doing this because we have always been doing it like this?" Which, in turn, may or may not lead you to challenge *everything*. 
-
-I take no responsibly if you pivot out of your relationship/move out of the country/quit your job/shut down your business if it goes wrong.
-
-
+The best book about Kanban I've encountered.
 
 ### Notes to a Software Team Leader: Growing Self Organizing Teams
 
@@ -103,7 +107,7 @@ Don't bother, waste of time.
 
 *by John C. Parkin*
 
-It has relatively (surprisingly!) good reviews but there's a reason why it's selling for £0.01 on Amazon. 
+It has relatively (surprisingly!) good reviews but there's a reason why it's selling for £0.01 on Amazon.
 
 Ignoring problems and swearing doesn't make it go away.
 
@@ -111,5 +115,4 @@ Ignoring problems and swearing doesn't make it go away.
 
 *by Robin S. Sharma*
 
-Nah. Self-help kind of a book hidden in a story. Annoyingly patronising. 
-
+Nah. Self-help kind of a book hidden in a story. Annoyingly patronising.
