@@ -1,0 +1,115 @@
+---
+layout: post
+title: Learning resources
+date: '2019-05-09 7:30:00'
+tags:
+- agile
+- retrospective
+- books
+- articles
+- learning
+- training
+- conferences
+---
+
+
+List of books, blogs, articles, conferences, facilitation, games, advise, tips, meet-ups, training, frames that you too might find useful.
+
+#### Books ####
+
+[Kanban](https://www.amazon.co.uk/Kanban-Successful-Evolutionary-Technology-Business/dp/0984521402)
+
+[Liberating Structures](https://www.amazon.co.uk/Surprising-Power-Liberating-Structures-Innovation/dp/0615975305)
+
+[Coaching Agile Teams](https://www.amazon.co.uk/Coaching-Agile-Teams-ScrumMasters-Addison-Wesley/dp/0321637704)
+
+[Notes for a Software Team Leader](https://www.amazon.co.uk/Notes-Software-Team-Leader-Organizing-ebook/dp/B00EP03O5Y)
+
+[The Lean Startup](https://www.amazon.co.uk/Lean-Startup-Innovation-Successful-Businesses/dp/0670921602)
+
+[Lean Enterprise](https://www.amazon.co.uk/Lean-Enterprise-Performance-Organizations-Innovate/dp/1449368425)
+
+[The Phoenix Project](https://www.amazon.co.uk/Phoenix-Project-DevOps-Helping-Business-ebook/dp/B00AZRBLHO)
+
+[How to Measure Anything](https://www.amazon.co.uk/How-Measure-Anything-Intangibles-Business/dp/1118539273)
+
+[Continuous Delivery](https://www.amazon.co.uk/Continuous-Delivery-Deployment-Automation-Addison-Wesley/dp/0321601912/ref=sr_1_1?keywords=continuous+delivery&qid=1557384785&s=gateway&sr=8-1)
+
+[Unlearn](https://www.amazon.co.uk/Unlearn-Success-Achieve-Extraordinary-Results/dp/1260143015)
+
+[Turn the Ship Around](Turn the Ship Around! A True Story of Turning Followers Into Leaders)
+
+[Agile Retrospectives](Agile Retrospectives: Making Good Teams Great)
+
+#### Blogs & Articles ####
+
+[16 lessons on scaling](https://medium.com/cs183c-blitzscaling-class-collection/16-lessons-on-scaling-from-eric-schmidt-reid-hoffman-marissa-mayer-brian-chesky-diane-greene-3d6367e63a42)
+
+[Collaboration Super Powers](https://www.collaborationsuperpowers.com/200-greatest-hits-volume-iv/)
+
+[Discovery & Action Dialogue](http://www.liberatingstructures.com/10-discovery-action-dialogue/)
+
+[Guide to Agile Communication](http://www.defra.net/home/a-guide-to-agile-communication)
+
+
+#### Facilitation & Games ####
+
+[Team Collaboration](https://emilywebber.co.uk/the-team-collaboration-party-game/)
+
+[Team Genesis](https://mailchi.mp/391f23568705/j5hiss9wtw)
+
+[Retrospective ideas](https://agilestrides.com/2017/09/25/40-ideas-to-spice-up-your-retrospective/)
+
+[Retrospective ideas 2](http://tastycupcakes.org/category/agile/)
+
+[Retrospective ideas 3](https://plans-for-retrospectives.com/en/?id=2-75-91-12-102)
+
+[Retrospective ideas 4](https://funretro.io/)
+
+[Retrospective ideas 5](https://spotifylabscom.files.wordpress.com/2017/12/retro-kit3.pdf)
+
+[Remote facilitation tips](https://judyrees.co.uk/category/remote-facilitation/)
+
+#### Conferences ####
+
+[Agile Coach Camp Finland](http://accfi.agile.fi/)
+
+[Agile On The Beach Cornwall](https://agileonthebeach.com/)
+
+[Aginext.io](http://2019.aginext.io/)
+
+[Agile in the City](https://agileinthecity.net/)
+
+[Agile Tour London](http://2018.agiletourlondon.co.uk/)
+
+#### Meet-ups & Communities  ####
+
+[Adventures with Agile London](https://www.adventureswithagile.com/)
+
+[Agile Barcelona](http://agile-barcelona.org/)
+
+#### Frameworks & Tools ####
+
+[Mobius Loop](https://www.mobiusloop.com/)
+
+[Personal Maps](https://management30.com/practice/personal-maps/)
+
+[Modern Agile](http://modernagile.org/)
+
+#### Training ####
+
+[Collaboration Super Powers](https://www.collaborationsuperpowers.com/schedule/#search=Online)
+
+[Strategyzer](https://www.strategyzer.com/)
+
+[Team Training](https://www.ideou.com/pages/team-training)
+
+[Empathic Facilitation](https://tobiasmayer.uk/workshops/empathic-facilitation)
+
+[Virtual Crash Course in Design Thinking](https://dschool.stanford.edu/resources/a-virtual-crash-course-in-design-thinking)
+
+[Design and Innovation](https://www.open.edu/openlearn/science-maths-technology/engineering-and-technology/design-and-innovation/design/design-thinking/content-section-0?active-tab=description-tab)
+
+#### Entrepreneurship  ####
+
+[EU-funded Start-up Entrepreneur's Programme](http://info.setsquared.co.uk/entrepreneurship-programme)
