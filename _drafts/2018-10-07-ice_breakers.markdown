@@ -36,3 +36,18 @@ Get £20 worth of different coins. The idea is to split the group in two and mak
 
 Especially useful for when you're setting about to define or improve your process. 
 
+#### Design an aeroplane ####
+
+Duration: 30 minutes
+When to use it? When wanting to show that delivery to an end customer matters the most. Most people will miss the submit bit, trust me. 
+
+You’ve got 5 minutes. Your task is to Design, Build, Test and Submit and an aeroplane from the paper. 
+
+The aeroplane that stays in the air longest wins. 
+
+Time it down
+30 seconds
+10, 9, 8, 7, 6, 5, 4, 3, 2, 1
+
+Ask: What were the instructions? 
+
